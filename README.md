@@ -18,6 +18,6 @@ A vanilla TestCafe project testing the functionality of 'The Internet Herokup Ap
 
 ## Running tests
 
-You can run tests by executing `npm test` commands in command prompt
+You can run tests by executing `npm run test` commands in command prompt
 
 
