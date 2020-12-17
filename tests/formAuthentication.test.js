@@ -1,7 +1,7 @@
 import HomePage from '../page_objects/homePage.po';
 import FormAuthenticationPage from '../page_objects/formAuthentication.po';
 
-fixture `Test dropdown option selection`
+fixture `Test form authentication`
     .page `https://the-internet.herokuapp.com/`;
 
 test(`Login using the form authentication`, async t => {
