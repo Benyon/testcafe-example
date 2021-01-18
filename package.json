@@ -4,7 +4,7 @@
   "description": "TestCafe Example Project",
   "main": "index.js",
   "scripts": {
-    "test": "npx testcafe \"chrome '--window-size=1920,1080'\" tests/*.test.js --skip-js-errors"
+    "test": "npx testcafe \"firefox\" tests/*.test.js --skip-js-errors"
   },
   "author": "DeeperThanBlue",
   "license": "MIT",
